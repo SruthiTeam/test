@@ -1,0 +1,1 @@
+aws ec2 run-instances -image-id ami-066a1a3fa81bfbd00 -count 2 -instance-type t2.micro-key-name brightkey-security-groups brightke
